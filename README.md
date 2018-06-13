@@ -1,4 +1,4 @@
-# MyAppDemo
+# my-app-demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
@@ -25,4 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# my-app-demo
+
+## Author
+
+* **[Yann Mulonda](https://github.com/YannMjl)** - *Initial work* - [Tim Rustige]
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)© [Yann Mulonda](https://github.com/YannMjl) file for details
